@@ -19,7 +19,7 @@
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/AutoApex.git
+git clone https://github.com/abhisheksharma226/ApexAutomator
 cd AutoApex
 ```
 2. How to use
