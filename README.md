@@ -26,3 +26,8 @@ cd AutoApex
 ```bash
 node apex-runner/runApex.js ClassName
 ```
+OR
+
+```bash
+node apex-runner/runApex.js path/to/Class.cls
+```
