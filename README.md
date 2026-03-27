@@ -1,4 +1,4 @@
-# AutoApex
+# Apex Automator
 
 **AutoApex** is a Node.js utility to **automatically deploy and run Salesforce Apex classes** from your local machine. It simplifies testing and executing Apex code by combining deployment and execution in a single command.
 
