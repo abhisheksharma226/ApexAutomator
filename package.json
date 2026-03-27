@@ -1,0 +1,9 @@
+{
+  "name": "apex-runner",
+  "version": "1.0.0",
+  "description": "Run Apex from VS Code using default org",
+  "main": "runApex.js",
+  "scripts": {
+    "run": "node runApex.js"
+  }
+}
