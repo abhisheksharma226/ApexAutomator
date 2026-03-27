@@ -20,7 +20,7 @@
 
 ```bash
 git clone https://github.com/abhisheksharma226/ApexAutomator
-cd AutoApex
+cd ApexAutomator
 ```
 2. How to use
 ```bash
